@@ -1,0 +1,16 @@
+D:\SimpleIdler\SimpleSteamIdler\bin\Debug\SimpleSteamIdler.exe
+D:\SimpleIdler\SimpleSteamIdler\bin\Debug\SimpleSteamIdler.pdb
+D:\SimpleIdler\SimpleSteamIdler\obj\x86\Debug\SimpleSteamIdler.Form1.resources
+D:\SimpleIdler\SimpleSteamIdler\obj\x86\Debug\SimpleSteamIdler.Properties.Resources.resources
+D:\SimpleIdler\SimpleSteamIdler\obj\x86\Debug\SimpleSteamIdler.csproj.GenerateResource.Cache
+D:\SimpleIdler\SimpleSteamIdler\obj\x86\Debug\SimpleSteamIdler.exe
+D:\SimpleIdler\SimpleSteamIdler\obj\x86\Debug\SimpleSteamIdler.pdb
+D:\SimpleIdler\SimpleSteamIdler\obj\x86\Debug\SimpleSteamIdler.csprojResolveAssemblyReference.cache
+C:\Users\sekis\Desktop\SimpleSteamIdler\obj\x86\Debug\SimpleSteamIdler.exe
+C:\Users\sekis\Desktop\SimpleSteamIdler\obj\x86\Debug\SimpleSteamIdler.pdb
+C:\Users\sekis\Desktop\SimpleSteamIdler\bin\Debug\SimpleSteamIdler.exe
+C:\Users\sekis\Desktop\SimpleSteamIdler\bin\Debug\SimpleSteamIdler.pdb
+C:\Users\sekis\Desktop\SimpleSteamIdler\obj\x86\Debug\SimpleSteamIdler.csprojResolveAssemblyReference.cache
+C:\Users\sekis\Desktop\SimpleSteamIdler\obj\x86\Debug\SimpleSteamIdler.Form1.resources
+C:\Users\sekis\Desktop\SimpleSteamIdler\obj\x86\Debug\SimpleSteamIdler.Properties.Resources.resources
+C:\Users\sekis\Desktop\SimpleSteamIdler\obj\x86\Debug\SimpleSteamIdler.csproj.GenerateResource.Cache

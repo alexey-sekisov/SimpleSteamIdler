@@ -1,0 +1,16 @@
+D:\SimpleIdler\SimpleSteamIdler\bin\Release\SimpleSteamIdler.exe
+D:\SimpleIdler\SimpleSteamIdler\bin\Release\SimpleSteamIdler.pdb
+D:\SimpleIdler\SimpleSteamIdler\obj\x86\Release\SimpleSteamIdler.Form1.resources
+D:\SimpleIdler\SimpleSteamIdler\obj\x86\Release\SimpleSteamIdler.Properties.Resources.resources
+D:\SimpleIdler\SimpleSteamIdler\obj\x86\Release\SimpleSteamIdler.csproj.GenerateResource.Cache
+D:\SimpleIdler\SimpleSteamIdler\obj\x86\Release\SimpleSteamIdler.exe
+D:\SimpleIdler\SimpleSteamIdler\obj\x86\Release\SimpleSteamIdler.pdb
+D:\SimpleIdler\SimpleSteamIdler\bin\Release\Steamworks.NET.dll
+C:\Users\sekis\Desktop\SimpleSteamIdler\bin\Release\SimpleSteamIdler.exe
+C:\Users\sekis\Desktop\SimpleSteamIdler\bin\Release\SimpleSteamIdler.pdb
+C:\Users\sekis\Desktop\SimpleSteamIdler\bin\Release\Steamworks.NET.dll
+C:\Users\sekis\Desktop\SimpleSteamIdler\obj\x86\Release\SimpleSteamIdler.Form1.resources
+C:\Users\sekis\Desktop\SimpleSteamIdler\obj\x86\Release\SimpleSteamIdler.Properties.Resources.resources
+C:\Users\sekis\Desktop\SimpleSteamIdler\obj\x86\Release\SimpleSteamIdler.csproj.GenerateResource.Cache
+C:\Users\sekis\Desktop\SimpleSteamIdler\obj\x86\Release\SimpleSteamIdler.exe
+C:\Users\sekis\Desktop\SimpleSteamIdler\obj\x86\Release\SimpleSteamIdler.pdb
