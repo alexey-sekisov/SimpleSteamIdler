@@ -14,3 +14,16 @@ C:\Users\sekis\Desktop\SimpleSteamIdler\obj\x86\Debug\SimpleSteamIdler.csprojRes
 C:\Users\sekis\Desktop\SimpleSteamIdler\obj\x86\Debug\SimpleSteamIdler.Form1.resources
 C:\Users\sekis\Desktop\SimpleSteamIdler\obj\x86\Debug\SimpleSteamIdler.Properties.Resources.resources
 C:\Users\sekis\Desktop\SimpleSteamIdler\obj\x86\Debug\SimpleSteamIdler.csproj.GenerateResource.Cache
+D:\Gitlub\SimpleSteamIdler\bin\Debug\SimpleSteamIdler.exe.config
+D:\Gitlub\SimpleSteamIdler\bin\Debug\SimpleSteamIdler.exe
+D:\Gitlub\SimpleSteamIdler\bin\Debug\SimpleSteamIdler.pdb
+D:\Gitlub\SimpleSteamIdler\obj\x86\Debug\SimpleSteamIdler.csproj.AssemblyReference.cache
+D:\Gitlub\SimpleSteamIdler\obj\x86\Debug\SimpleSteamIdler.csproj.SuggestedBindingRedirects.cache
+D:\Gitlub\SimpleSteamIdler\obj\x86\Debug\SimpleSteamIdler.Form1.resources
+D:\Gitlub\SimpleSteamIdler\obj\x86\Debug\SimpleSteamIdler.Properties.Resources.resources
+D:\Gitlub\SimpleSteamIdler\obj\x86\Debug\SimpleSteamIdler.csproj.GenerateResource.cache
+D:\Gitlub\SimpleSteamIdler\obj\x86\Debug\SimpleSteamIdler.csproj.CoreCompileInputs.cache
+D:\Gitlub\SimpleSteamIdler\obj\x86\Debug\SimpleSteamIdler.csproj.CopyComplete
+D:\Gitlub\SimpleSteamIdler\obj\x86\Debug\SimpleSteamIdler.exe
+D:\Gitlub\SimpleSteamIdler\obj\x86\Debug\SimpleSteamIdler.pdb
+D:\Gitlub\SimpleSteamIdler\bin\Debug\Steamworks.NET.dll

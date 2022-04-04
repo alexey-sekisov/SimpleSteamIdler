@@ -38,6 +38,30 @@ namespace SimpleSteamIdler
             }
 
             Steamworks.SteamUserStats.StoreStats();
+
+            Steamworks.SteamAPI.Shutdown();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Environment.SetEnvironmentVariable("SteamAppID", textBox1.Text);
+            Steamworks.SteamAPI.Init();
+
+            uint AchCount = Steamworks.SteamUserStats.GetNumAchievements();
+            for (uint i = 0; i < AchCount; i++)
+            {
+                string AchName = Steamworks.SteamUserStats.GetAchievementName(i);
+                bool Unlocked;
+                Steamworks.SteamUserStats.GetAchievement(AchName, out Unlocked);
+                if (Unlocked)
+                {
+                    Steamworks.SteamUserStats.ClearAchievement(AchName);
+                }
+            }
+
+            Steamworks.SteamUserStats.StoreStats();
+
+            Steamworks.SteamAPI.Shutdown();
         }
     }
 }
